@@ -1,5 +1,5 @@
 ---
-name: Bug report
+name: Feature request
 about: Report something that's not working correctly
 labels: kind/bug
 assignees: ''
